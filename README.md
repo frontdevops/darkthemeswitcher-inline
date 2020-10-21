@@ -1,6 +1,8 @@
 # darkthemeswitcher-inline
 Simple Dark Theme Bookmarklet for web pages
 
+![Example](example.gif)
+
 Free license:
    1. Use my code however you like
    2. Use this code at your own discretion, I will only be glad
