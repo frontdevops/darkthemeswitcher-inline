@@ -10,4 +10,4 @@ Free license:
    4. You use this code at your own risk and do not make claims to the author
 
 
-For russian language speakers the explained post with details: https://tech.geekjob.ru/js-dark-theme-button/
+For russian language speakers the post with eplained details: https://tech.geekjob.ru/js-dark-theme-button/
